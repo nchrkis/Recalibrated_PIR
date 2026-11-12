@@ -28,3 +28,8 @@ Provenance:
 - `data_exclusions.csv`: auditable exclusions and scope restrictions.
 - `analysis_manifest.json`: software versions, seeds, tolerances, replicate counts, and SHA-256 input/output hashes.
 
+Terminology: 
+- `Full` = complete score.
+-  `Non-PTS` = nonpoint score in the manuscript.
+-  `E2025` = the 2025–26 target season.
+
