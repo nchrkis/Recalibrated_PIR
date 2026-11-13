@@ -1,8 +1,8 @@
-# Recalibrating EuroLeague Performance Index Rating for outcome-concordant team ledgers
+# Reweighting EuroLeague Performance Index Rating for outcome-concordant team ledgers
 
 Reproducibility repository for:
 
-> **Recalibrating EuroLeague Performance Index Rating for outcome-concordant team ledgers: a season-locked historical evaluation**
+> **Reweighting the EuroLeague Performance Index Rating within its official structure makes team totals favour the winner more often**
 
 **Panagiotis Tirchas, Nicholas Christakis, and Dimitris Drikakis**  
 Institute for Advanced Modelling and Simulation, University of Nicosia, Nicosia, CY-2417, Cyprus
@@ -172,7 +172,8 @@ The study reports no specific funding and no competing interests.
 
 Until a journal citation and DOI are assigned, cite the manuscript as:
 
-> Tirchas, P., Christakis, N. & Drikakis, D. *Recalibrating EuroLeague Performance Index Rating for outcome-concordant team ledgers: a season-locked historical evaluation*. Manuscript (2026).
+> Tirchas, P., Christakis, N. & Drikakis, D. *Reweighting the EuroLeague Performance Index Rating within its official structure makes team totals
+favour the winner more often*. Manuscript (2026).
 
 ## License
 
